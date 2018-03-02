@@ -1,0 +1,1 @@
+export {AppRegister} from './appRegister.vue'
